@@ -1,4 +1,5 @@
 access.log
+INFO.md
 # игнорируем файл в любой директории проекта
 
 node_modules/
